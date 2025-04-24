@@ -29,37 +29,37 @@ const teachers = [
     qualifications: 'M.A. History'
   },
   {
-    name: 'Zara Nafis',
+    name: 'Sara Nafis',
     role: 'English',
     image: '/faculty/teacher5.jpg', // Placeholder
     qualifications: 'M.A. English'
   },
   {
-    name: 'Konaini',
+    name: 'Konain',
     role: 'Mathematics',
     image: '/faculty/teacher6.jpg', // Placeholder
     qualifications: 'M.Sc. Mathematics'
   },
   {
-    name: 'Larkis Daulat Warsi',
+    name: 'Laraib Daulat Warsi',
     role: 'Science',
     image: '/faculty/teacher7.jpg', // Placeholder
     qualifications: 'M.Sc. Chemistry'
   },
   {
-    name: 'Sarah Satid',
+    name: 'Sarah Sajjid',
     role: 'History',
     image: '/faculty/teacher8.jpg', // Placeholder
     qualifications: 'M.A. History'
   },
   {
-    name: 'Sheeta Nadeem',
+    name: 'Sheefa Nadeem',
     role: 'Geography',
     image: '/faculty/teacher9.jpg', // Placeholder
     qualifications: 'M.A. Geography'
   },
   {
-    name: 'Dastaqir Alam',
+    name: 'Dastagir Alam',
     role: 'Computer Science',
     image: '/faculty/teacher10.jpg', // Placeholder
     qualifications: 'M.Tech Computer Science'

@@ -37,42 +37,42 @@ const teachers = [
     bio: 'Makes history and social studies come alive through engaging teaching methods.'
   },
   {
-    name: 'Zara Nafis',
+    name: 'Sara Nafis',
     role: 'English',
     image: '/faculty/teacher5.jpg', // Placeholder
     qualifications: 'M.A. English',
     bio: 'Dedicated to improving students\' English language skills through literature and grammar.'
   },
   {
-    name: 'Konaini',
+    name: 'Konain',
     role: 'Mathematics',
     image: '/faculty/teacher6.jpg', // Placeholder
     qualifications: 'M.Sc. Mathematics',
     bio: 'Specializes in making mathematics accessible and enjoyable for all students.'
   },
   {
-    name: 'Larkis Daulat Warsi',
+    name: 'Laraib Daulat Warsi',
     role: 'Science',
     image: '/faculty/teacher7.jpg', // Placeholder
     qualifications: 'M.Sc. Chemistry',
     bio: 'Expert in Chemistry with a hands-on approach to scientific learning.'
   },
   {
-    name: 'Sarah Satid',
+    name: 'Sarah Sajjid',
     role: 'History',
     image: '/faculty/teacher8.jpg', // Placeholder
     qualifications: 'M.A. History',
     bio: 'Passionate about bringing historical events to life in the classroom.'
   },
   {
-    name: 'Sheeta Nadeem',
+    name: 'Sheefa Nadeem',
     role: 'Geography',
     image: '/faculty/teacher9.jpg', // Placeholder
     qualifications: 'M.A. Geography',
     bio: 'Makes geography relevant and interesting through practical examples and case studies.'
   },
   {
-    name: 'Dastaqir Alam',
+    name: 'Dastagir Alam',
     role: 'Computer Science',
     image: '/faculty/teacher10.jpg', // Placeholder
     qualifications: 'M.Tech Computer Science',
